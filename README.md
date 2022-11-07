@@ -36,18 +36,18 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="hhttps://www.linkedin.com/in/ivan-barbosa-653a29192/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-IvanBarbosa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/nome do perfil" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-IvanBarbosa-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
 <!--
 
 
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ivanbarbosa/ivanbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
