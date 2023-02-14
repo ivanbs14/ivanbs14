@@ -3,10 +3,9 @@
 
 - 📫 Email: **ivanbarbosa14@hotmail.com**
 
-- ⚡ Sobre mim: 
-- **Fiz transição de carreira para área de desenvolvimento web.** 
-**Hoje sou desenvolvedor Front-end e pratico o aprendizado contínuo em**
-**desenvolvimento de sistemas Web, com foco em React.**
+- ⚡ Sobre mim:  
+**Desenvolvedor Front-end e pratico o aprendizado contínuo em**
+**desenvolvimento de sistemas Web, com foco em React, JavaScript, Node.js, SQLite, entre outros.**
 **Meu objetivo é no futuro próximo me tornar desenvolvedor Fullstack.**
 
 <h3 align="left">Conecte-se comigo:</h3>
