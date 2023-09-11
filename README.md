@@ -1,11 +1,11 @@
 <img align="right" height="350em" src="https://github.com/ivanbs14/ivanbs14/blob/main/Captura%20de%20Tela%202022-11-07%20a%CC%80s%2020.37.07.png?raw=true"/>
 <h1 align="left">Olá!  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Ivan Barbosa</h1>
 
-- 📫 Email: **ivanbarbosa14@hotmail.com**
+- 📫 Email: **ivanbarbosag@gmail.com**
 
 - ⚡ Sobre mim:  
-**Desenvolvedor Front-end e pratico o aprendizado contínuo em**
-**desenvolvimento de sistemas Web, com foco em React, JavaScript, Node.js, SQLite, entre outros.**
+**Desenvolvedor de software e pratico o aprendizado contínuo em**
+**desenvolvimento de sistemas Web, com foco em React, JavaScript, TypeScript, Node.js, SQL, entre outros.**
 **Meu objetivo é no futuro próximo me tornar desenvolvedor Fullstack.**
 
 <h3 align="left">Conecte-se comigo:</h3>
