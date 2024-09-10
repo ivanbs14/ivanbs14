@@ -6,7 +6,6 @@
 - ⚡ Sobre mim:  
 **Desenvolvedor de software e pratico o aprendizado contínuo em**
 **desenvolvimento de sistemas Web, com foco em React, JavaScript, TypeScript, Node.js, SQL, entre outros.**
-**Meu objetivo é no futuro próximo me tornar desenvolvedor Fullstack.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
