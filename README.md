@@ -4,8 +4,13 @@
 - 📫 Email: **ivanbarbosag@gmail.com**
 
 - ⚡ Sobre mim:  
-**Desenvolvedor de software e pratico o aprendizado contínuo em**
-**desenvolvimento de sistemas Web, com foco em React, JavaScript, TypeScript, Node.js, SQL, entre outros.**
+**Sou desenvolvedor full stack com sólida experiência em tecnologias modernas como React, Next.js, Node.js, NestJS e PostgreSQL.**
+**Tenho atuação comprovada como Tech Lead, liderando times e tomando decisões estratégicas sobre arquitetura, performance e escalabilidade de sistemas.**
+**Meu foco está na entrega de soluções robustas que equilibram inovação, qualidade de código e impacto real para o negócio.**
+**Possuo experiência prática no desenvolvimento front-end e back-end, trabalhando com equipes multidisciplinares, com atenção especial à experiência do usuário e às melhores práticas de desenvolvimento.**
+
+🔗 **Veja alguns dos meus projetos:**
+**Portfólio: https://portifoli-ivan-barbosa.netlify.app/**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
