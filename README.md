@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Desenvolvimento de produtos web de ponta a ponta, APIs escaláveis, integrações em cloud e soluções com IA aplicada.
+  Construo e evoluo produtos digitais de ponta a ponta, conectando engenharia de software, cloud e inteligência artificial aplicada a problemas reais de negócio.
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ## Sobre mim
 
-Sou **Software Engineer Full-Stack**, com experiência no desenvolvimento e evolução de produtos web de ponta a ponta, atuando em **front-end, back-end, banco de dados, integrações e cloud**.
+Atuo no desenvolvimento de produtos web completos, da interface à API, passando por banco de dados, integrações, cloud e automações.
 
-Minha atuação envolve construção de interfaces responsivas, desenvolvimento de **APIs REST**, modelagem de dados, autenticação, revisão de código, testes automatizados e evolução de arquitetura, com foco em **qualidade, manutenção, performance e escalabilidade**.
+Tenho experiência com **arquitetura modular, APIs REST, autenticação, testes automatizados, CI/CD, AWS e Azure**, além de aplicações com **OpenAI, Azure OpenAI e LLMs** para automação e processamento de dados.
 
-Também possuo experiência com **AWS, Azure OpenAI, APIs OpenAI e LLMs**, aplicando inteligência artificial em automações, suporte ao cliente, geração de propostas e extração e classificação de dados estruturados. Ao longo da minha trajetória, também atuei com **liderança técnica, definição de padrões de engenharia e apoio a decisões arquitetônicas**.
+Também já atuei com **liderança técnica, revisão de código, definição de padrões de engenharia e apoio a decisões arquitetônicas**, mantendo o foco em qualidade, escalabilidade e entrega de valor.
 
 ---
 
