@@ -54,35 +54,90 @@ Também já atuei com **liderança técnica, revisão de código, definição de
 
 ## Projetos em destaque
 
-### Balance AI
-Aplicação full stack para gestão financeira com arquitetura moderna, autenticação, persistência de dados e experiência web responsiva.
-
-- [Frontend](https://github.com/ivanbs14/balanceai-web)
-- [Backend](https://github.com/ivanbs14/balanceai-api)
-
-### ReplyMentor
-Projeto full stack com foco em experiência moderna de uso, gerenciamento de estado e backend estruturado com NestJS e Prisma.
-
-- [Frontend](https://github.com/ivanbs14/replymentor-fr)
-- [Backend](https://github.com/ivanbs14/replymentor-bk)
-
-### Finance 2.0
-Plataforma financeira construída com tecnologias modernas de front-end e back-end, incluindo validação, autenticação e persistência de dados.
-
-- [Frontend](https://github.com/ivanbs14/Finance-2.0)
-- [Backend](https://github.com/ivanbs14/Finance-api2.0)
-
-### Upload AI
-Projeto que integra recursos de IA a uma aplicação web, com frontend em React/TypeScript e backend com Fastify, Prisma e APIs de IA.
-
-- [Frontend](https://github.com/ivanbs14/Upload_AI_web)
-- [Backend](https://github.com/ivanbs14/Upload_AI_API)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💰 Balance AI</h3>
+      <p align="center">
+        Plataforma full stack de gestão financeira com autenticação, persistência de dados e arquitetura moderna.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ivanbs14/balanceai-web"><strong>Frontend</strong></a>
+        ·
+        <a href="https://github.com/ivanbs14/balanceai-api"><strong>Backend</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 ReplyMentor</h3>
+      <p align="center">
+        Aplicação full stack com gerenciamento de estado moderno e backend estruturado com NestJS e Prisma.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ivanbs14/replymentor-fr"><strong>Frontend</strong></a>
+        ·
+        <a href="https://github.com/ivanbs14/replymentor-bk"><strong>Backend</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 Finance 2.0</h3>
+      <p align="center">
+        Plataforma financeira com validação, autenticação, persistência de dados e visualização de informações.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ivanbs14/Finance-2.0"><strong>Frontend</strong></a>
+        ·
+        <a href="https://github.com/ivanbs14/Finance-api2.0"><strong>Backend</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 Upload AI</h3>
+      <p align="center">
+        Aplicação com inteligência artificial aplicada a processamento de conteúdo e interação via API.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ivanbs14/Upload_AI_web"><strong>Frontend</strong></a>
+        ·
+        <a href="https://github.com/ivanbs14/Upload_AI_API"><strong>Backend</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### Outros projetos
 
-- [Habit API](https://github.com/ivanbs14/habit-api)
-- [Board Game Monster](https://github.com/ivanbs14/board-game-monster)
-- [Portfólio](https://github.com/ivanbs14/Portfolio)
+<p>
+  <a href="https://github.com/ivanbs14/habit-api">
+    <img src="https://img.shields.io/badge/Habit_API-NestJS%20%2B%20Prisma-E0234E?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/ivanbs14/board-game-monster">
+    <img src="https://img.shields.io/badge/Board_Game_Monster-Next.js%20%2B%20Playwright-000000?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/ivanbs14/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Ver_projeto-3178C6?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
