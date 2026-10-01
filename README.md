@@ -1,7 +1,11 @@
-<h1 align="center">Olá, eu sou Ivan Barbosa 👋</h1>
+<h1 align="center">Ivan Barbosa</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack focado em aplicações web modernas, APIs robustas e produtos escaláveis.
+  <strong>Full-Stack Developer | Software Engineer</strong>
+</p>
+
+<p align="center">
+  Desenvolvimento de produtos web de ponta a ponta, APIs escaláveis, integrações em cloud e soluções com IA aplicada.
 </p>
 
 <p align="center">
@@ -12,11 +16,11 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack com experiência prática em front-end e back-end, atuando na construção de interfaces modernas, APIs, autenticação, integrações e modelagem de dados.
+Sou **Software Engineer Full-Stack**, com experiência no desenvolvimento e evolução de produtos web de ponta a ponta, atuando em **front-end, back-end, banco de dados, integrações e cloud**.
 
-Trabalho principalmente com **React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL, Prisma e TypeORM**, além de ferramentas e serviços de cloud como **AWS e Azure**.
+Minha atuação envolve construção de interfaces responsivas, desenvolvimento de **APIs REST**, modelagem de dados, autenticação, revisão de código, testes automatizados e evolução de arquitetura, com foco em **qualidade, manutenção, performance e escalabilidade**.
 
-Tenho experiência em decisões técnicas, arquitetura, performance, escalabilidade e colaboração com equipes multidisciplinares, sempre buscando equilibrar qualidade de código, experiência do usuário e impacto de negócio.
+Também possuo experiência com **AWS, Azure OpenAI, APIs OpenAI e LLMs**, aplicando inteligência artificial em automações, suporte ao cliente, geração de propostas e extração e classificação de dados estruturados. Ao longo da minha trajetória, também atuei com **liderança técnica, definição de padrões de engenharia e apoio a decisões arquitetônicas**.
 
 ---
 
