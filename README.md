@@ -1,21 +1,94 @@
-<img align="right" height="350em" src="https://github.com/ivanbs14/ivanbs14/blob/main/Captura%20de%20Tela%202022-11-07%20a%CC%80s%2020.37.07.png?raw=true"/>
-<h1 align="left">Olá!  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Ivan Barbosa</h1>
+<h1 align="center">Olá, eu sou Ivan Barbosa 👋</h1>
 
-- 📫 Email: **ivanbarbosag@gmail.com**
-
-- ⚡ Sobre mim:  
-**Sou desenvolvedor full stack com sólida experiência em tecnologias modernas como React, Next.js, Node.js, NestJS e PostgreSQL.**
-**Tenho atuação comprovada como Tech Lead, liderando times e tomando decisões estratégicas sobre arquitetura, performance e escalabilidade de sistemas.**
-**Meu foco está na entrega de soluções robustas que equilibram inovação, qualidade de código e impacto real para o negócio.**
-**Possuo experiência prática no desenvolvimento front-end e back-end, trabalhando com equipes multidisciplinares, com atenção especial à experiência do usuário e às melhores práticas de desenvolvimento.**
-
-🔗 **Veja alguns dos meus projetos:**
-**Portfólio: https://portifolioiv.netlify.app/**
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ivan barbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan barbosa" height="30" width="40" /></a>
+<p align="center">
+  Desenvolvedor Full Stack focado em aplicações web modernas, APIs robustas e produtos escaláveis.
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>React • Next.js • TypeScript • Node.js • NestJS • PostgreSQL • Prisma</strong>
+</p>
+
+---
+
+## Sobre mim
+
+Sou desenvolvedor Full Stack com experiência prática em front-end e back-end, atuando na construção de interfaces modernas, APIs, autenticação, integrações e modelagem de dados.
+
+Trabalho principalmente com **React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL, Prisma e TypeORM**, além de ferramentas e serviços de cloud como **AWS e Azure**.
+
+Tenho experiência em decisões técnicas, arquitetura, performance, escalabilidade e colaboração com equipes multidisciplinares, sempre buscando equilibrar qualidade de código, experiência do usuário e impacto de negócio.
+
+---
+
+## Stack principal
+
+### Front-end
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Back-end e dados
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Engenharia e cloud
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+### Balance AI
+Aplicação full stack para gestão financeira com arquitetura moderna, autenticação, persistência de dados e experiência web responsiva.
+
+- [Frontend](https://github.com/ivanbs14/balanceai-web)
+- [Backend](https://github.com/ivanbs14/balanceai-api)
+
+### ReplyMentor
+Projeto full stack com foco em experiência moderna de uso, gerenciamento de estado e backend estruturado com NestJS e Prisma.
+
+- [Frontend](https://github.com/ivanbs14/replymentor-fr)
+- [Backend](https://github.com/ivanbs14/replymentor-bk)
+
+### Finance 2.0
+Plataforma financeira construída com tecnologias modernas de front-end e back-end, incluindo validação, autenticação e persistência de dados.
+
+- [Frontend](https://github.com/ivanbs14/Finance-2.0)
+- [Backend](https://github.com/ivanbs14/Finance-api2.0)
+
+### Upload AI
+Projeto que integra recursos de IA a uma aplicação web, com frontend em React/TypeScript e backend com Fastify, Prisma e APIs de IA.
+
+- [Frontend](https://github.com/ivanbs14/Upload_AI_web)
+- [Backend](https://github.com/ivanbs14/Upload_AI_API)
+
+### Outros projetos
+
+- [Habit API](https://github.com/ivanbs14/habit-api)
+- [Board Game Monster](https://github.com/ivanbs14/board-game-monster)
+- [Portfólio](https://github.com/ivanbs14/Portfolio)
+
+---
+
+## Contato
+
+- 📧 **Email:** ivanbarbosag@gmail.com
+- 🌐 **Portfólio:** https://portifolioiv.netlify.app/
+
+---
+
+<p align="center">
+  Sempre evoluindo através de novos produtos, desafios técnicos e boas práticas de engenharia de software.
+</p>
